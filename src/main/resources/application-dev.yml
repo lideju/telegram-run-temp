@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: telegramUser
+    password: telegramDbPasswd2021.
+    url: jdbc:mysql://node2-mgostoresvr.realsvr.cs-xc-idc2-area1.singhand.com:3090/telegram?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=false&allowMultiQueries=true&useAffectedRows=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=Asia/Shanghai
+server:
+  port: 8087
